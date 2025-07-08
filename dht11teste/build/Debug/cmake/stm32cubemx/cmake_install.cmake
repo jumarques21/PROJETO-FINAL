@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/cmake/stm32cubemx
+# Install script for directory: C:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

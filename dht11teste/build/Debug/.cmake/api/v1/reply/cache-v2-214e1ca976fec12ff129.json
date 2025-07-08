@@ -179,7 +179,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/build/Debug"
+			"value" : "c:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/build/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -619,7 +619,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/build/Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/build/Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste"
+			"value" : "C:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/cmake/gcc-arm-none-eabi.cmake"
+			"value" : "C:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/build/Debug"
+			"value" : "C:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/build/Debug"
 		},
 		{
 			"name" : "dht11teste_IS_TOP_LEVEL",
@@ -1211,7 +1211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste"
+			"value" : "C:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste"
 		},
 		{
 			"name" : "stm32cubemx_BINARY_DIR",
@@ -1223,7 +1223,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/build/Debug/cmake/stm32cubemx"
+			"value" : "C:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/build/Debug/cmake/stm32cubemx"
 		},
 		{
 			"name" : "stm32cubemx_IS_TOP_LEVEL",
@@ -1247,7 +1247,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/cmake/stm32cubemx"
+			"value" : "C:/Users/Aluno/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/cmake/stm32cubemx"
 		}
 	],
 	"kind" : "cache",

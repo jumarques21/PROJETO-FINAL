@@ -1,5 +1,0 @@
-C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/CMakeFiles/dht11teste.dir
-C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/CMakeFiles/edit_cache.dir
-C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/CMakeFiles/rebuild_cache.dir
-C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-C:/Users/renat/OneDrive/Documentos/ProjetoFinal02/ProjetoFinal02/dht11teste/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
